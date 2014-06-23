@@ -18,7 +18,7 @@
         src: url(../fonts/intro/IntroInline.otf) format("opentype");
 }
 ::selection {
-	background: rgba(0, 128, 128, 0.58);
+	background: rgba(0, 128, 128, 0.3);
 	color: #fff;
 }
 
@@ -74,7 +74,8 @@ h1, h2, h3, h4 {
 	.banner h1, .banner h2 {
 		font-size: 40px;
 		line-height: 52px;
-		
+		background: rgba(0, 128, 128, 0.58);
+		padding: 2px;
 		color: #fff;
 	}
 	
@@ -174,5 +175,12 @@ h1, h2, h3, h4 {
 .overview-title {
         font-size:2vw;
         font-family: 'IntroInline', sans-serif;
+}
+
+.fixed-buttons {
+        position: fixed;
+        left: 0;
+        bottom: 45%;
+        z-index: 9999:
 }
 
