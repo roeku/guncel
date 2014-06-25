@@ -56,6 +56,3 @@ SEVİM ÜNAL´IN TABLOSU KAYIP</h1>
 				</li>
 	    </ul>
 	</div>
-</body>
-</html>
-
