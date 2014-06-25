@@ -1,5 +1,23 @@
 <html>
 <head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <!-- Site Properities -->
+  <title>Guncel</title>
+
+  <link href='http://fonts.googleapis.com/css?family=Sanchez' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" type="text/css" href="css/semantic.css">
+  <link rel="stylesheet" type="text/css" href="css/component.css">
+
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="javascript/semantic.js"></script>
+  <script src="http://unslider.com/unslider.js"></script>
+
+
 </head>
 <body>
 	<div class="ui tiny vertical buttons fixed-buttons">
