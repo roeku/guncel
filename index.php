@@ -2,7 +2,7 @@
 	<?php include ('header.php'); ?>
 <!-- END HEADER -->
 <!-- START CONTENT -->
-<?php include ('content.php'); ?>
+	<?php include ('content.php'); ?>
 <!-- END CONTENT -->
 
 <!-- START SPONSORS -->
