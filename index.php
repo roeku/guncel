@@ -1,5 +1,7 @@
-
+<!-- START HEADER -->
 	<?php include ('header.php'); ?>
+<!-- END HEADER -->
+<!-- START CONTENT -->
 <br>
 <div class="contained">
 <h1 class="ui center aligned header">Haberler</h1>
@@ -107,6 +109,9 @@
   </a>
 </div>
 </div>
+<!-- END CONTENT -->
+
+<!-- START SPONSORS -->
 <div class="ui inverted segment borderless">
 <h1 class="ui inverted center aligned header">Sponsored by</h1>
 <div class="ui inverted horizontal icon divider">
@@ -147,6 +152,10 @@
 </div>
 </div>
 </div>
+
+<!-- END SPONSORS -->
+
+<!-- START WRITERS -->
 <div class="contained">
 <h1 class="ui center aligned header">Yazarlar</h1>
 <div class="ui horizontal icon divider">
@@ -176,6 +185,9 @@
 </div>
 </div>
 <hr>
+<!-- END WRITERS -->
+
+<!-- START FOOTER -->
 <div class="contained">
 	<div class="ui center aligned three column grid">
 	<div class="row">
@@ -209,3 +221,4 @@
 </body>
 
 </html>
+<!-- END FOOTER -->
